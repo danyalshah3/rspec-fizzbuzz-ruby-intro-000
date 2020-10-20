@@ -3,11 +3,11 @@ def fizzbuzz(int)
     "Fizz"
   end
 
-elsif int % 3 && 5 == 0
-  "FizzBuzz"
+elsif int 5 == 0
+  "Buzz"
 end
 
-else int % 5 == 0
-  "Buzz"
+else int % 3 && 5 == 0
+  "FizzBuzz"
 end
 end
